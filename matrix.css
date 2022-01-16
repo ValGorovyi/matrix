@@ -1,0 +1,14 @@
+body{
+    padding: 0;
+    margin: 0;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(39, 34, 34);
+    color: rgb(46, 215, 63);
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+
+    user-select: none;
+}
